@@ -1,14 +1,29 @@
-📚 AI-Powered Study Buddy
+<div align="center">
 
-👩‍💻 Developer
+# 📚 AI-Powered Study Buddy
 
-Divya Pal
+### 🤖 Your Personal AI-Powered Learning Assistant
 
-📌 Description
+**👩‍💻 Developer: Divya Pal**
 
-AI-Powered Study Buddy is a Streamlit-based application that helps students learn more effectively using Generative AI. Users can upload PDF notes or paste study material to generate summaries, quizzes, and flashcards instantly.
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Gemini](https://img.shields.io/badge/Google-Gemini%20AI-orange?logo=google)
+![NLP](https://img.shields.io/badge/AI-Generative%20AI-purple)
 
-✨ Features
+</div>
+
+---
+
+## 📌 Description
+
+**AI-Powered Study Buddy** is a Streamlit-based application that helps students learn more effectively using **Generative AI**.
+
+Users can upload PDF notes or paste study material to instantly generate **summaries, quizzes, and flashcards**.
+
+---
+
+## ✨ Features
 
 - 📄 PDF Notes Upload
 - 📝 AI-Powered Notes Summarization
@@ -17,46 +32,99 @@ AI-Powered Study Buddy is a Streamlit-based application that helps students lear
 - 🎨 Custom Styled Interface using CSS
 - ⚡ Powered by Google Gemini AI
 
-🛠 Tech Stack
+---
 
-- Python
-- Streamlit
-- Google Gemini API
-- PyPDF2
-- HTML
-- CSS
+## 🛠️ Tech Stack
 
-🚀 Live Demo
+**Python • Streamlit • Google Gemini API • PyPDF2 • HTML • CSS**
 
-https://ai-study-buddygit-divyapal.streamlit.app/
+---
 
-▶️ Run Locally
+## 🚀 Live Demo
 
-Install dependencies:
+🔗 **[AI-Powered Study Buddy](https://ai-study-buddygit-divyapal.streamlit.app/)**
 
-pip install -r requirements.txt
+---
 
-Run the application:
+## 🔄 How It Works
 
-streamlit run app.py
+    📄 Upload PDF / Enter Study Material
+                    ↓
+          📖 Extract Study Content
+                    ↓
+             🤖 Gemini AI
+                    ↓
+       ┌────────────┼────────────┐
+       ↓            ↓            ↓
+    📝 Summary    🧠 Quiz     🃏 Flashcards
+                    ↓
+             🎓 Learn Better
 
-🔐 Security
+---
 
-API keys are stored securely using Streamlit Secrets and environment variables.
+## ▶️ Run Locally
 
-Sensitive files are excluded using ".gitignore" to prevent accidental exposure.
+### 1. Install Dependencies
 
-🎯 Goal
+    pip install -r requirements.txt
 
-To make learning faster, smarter, and more interactive using Artificial Intelligence.
+### 2. Run the Application
 
-🚀 Future Improvements
+    streamlit run app.py
 
-- Voice-based AI Study Assistant
-- Multi-language Support
-- Personalized Study Planner
-- User Authentication System
-- Progress Tracking Dashboard
-- Performance Analytics
-- Cloud-based Notes Storage
+The application will open in your browser.
 
+---
+
+## 🔐 Security
+
+- API keys are stored securely using **Streamlit Secrets** and environment variables.
+- Sensitive files are excluded using `.gitignore` to prevent accidental exposure.
+
+---
+
+## 🎯 Goal
+
+To make learning **faster, smarter, and more interactive** using Artificial Intelligence.
+
+---
+
+## 🚀 Future Improvements
+
+- 🎙️ Voice-Based AI Study Assistant
+- 🌐 Multi-Language Support
+- 📅 Personalized Study Planner
+- 🔐 User Authentication System
+- 📊 Progress Tracking Dashboard
+- 📈 Performance Analytics
+- ☁️ Cloud-Based Notes Storage
+
+---
+
+## 📁 Project Structure
+
+    AI-Study-Buddy/
+    │
+    ├── app.py
+    ├── requirements.txt
+    ├── .gitignore
+    ├── README.md
+    └── ...
+
+---
+
+## 📚 Project Highlights
+
+    🤖 Generative AI
+    📄 PDF Processing
+    🧠 Intelligent Learning
+    📝 Automated Content Generation
+    ⚡ Interactive Streamlit Application
+
+---
+
+<div align="center">
+
+### ⭐ Learn Smarter • Study Faster • Powered by AI
+
+</div>
